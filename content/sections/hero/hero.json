@@ -16,7 +16,7 @@
   },
   "description": "I am a 4th year Computer Science student at the University of Washington.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }

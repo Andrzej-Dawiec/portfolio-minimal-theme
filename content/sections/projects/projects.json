@@ -14,11 +14,11 @@
     },
     {
       "visible": true,
-      "category": "Software Engineer Intern",
+      "category": "Software Engineer (Research Assistant)",
       "title": "Social Computing and Algorithmic Expressions Laboratory",
       "date": "Jun. 2022 - Sep. 2022",
       "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
-      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "tags": ["Web Development", "Research", "React.js", "d3.js", "Flask", "Node.js"],
       "image": {
         "src": "../../images/uwcse.png",
         "alt": "Quick Setup"
