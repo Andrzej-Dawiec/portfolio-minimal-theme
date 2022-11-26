@@ -2,47 +2,92 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Software Engineer Intern",
+      "title": "Google",
+      "date": "Sep. 2022 - Present",
+      "description": "I was working on Google's Cloud Services team as a software engineer intern, working in C++ to help assist with payment and security of information.",
+      "tags": ["C++", "Networking", "Docker", "ACE", "MapReduce", "Data Pipeline"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/googleCloud.png",
+        "alt": "Extendable Layout"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Software Engineer Intern",
+      "title": "Social Computing and Algorithmic Expressions Laboratory",
+      "date": "Jun. 2022 - Sep. 2022",
+      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
+      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "image": {
+        "src": "../../images/uwcse.png",
+        "alt": "Quick Setup"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://faculty.washington.edu/tmitra/students/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Software Engineer Intern",
+      "title": "Apple",
+      "date": "Sep. 2021 - Mar. 2022",
+      "description": "As a software Engineer at Apple, I worked on the Environmental Supply Chain Initiative creating data pipelines for feeding data, a fullstack web applicaiton for auditing and parsing through material specifications, and synthetic data generation.",
+      "tags": ["React.js", "Node.js", "Flask", "Python", "API", "Swift", "Data Pipeline"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/ESCI.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://www.apple.com/environment/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Software Engineer Intern",
+      "title": "Apple",
+      "date": "Jun. 2021 - Sep. 2021",
+      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
+      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "image": {
+        "src": "../../images/macos.png",
+        "alt": "Quick Setup"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Software Engineer Intern",
+      "title": "PayPal",
+      "date": "Sep. 2021 - Dec. 2021",
+      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
+      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "image": {
+        "src": "../../images/paypal.png",
+        "alt": "Quick Setup"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Software Engineer Intern",
+      "title": "Microsoft",
+      "date": "Jun. 2020 - Sep. 2020",
+      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
+      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "image": {
+        "src": "../../images/microsoft.png",
+        "alt": "Quick Setup"
+      }
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit my Github",
+    "url": "https://github.com/justyeethan"
   }
 }

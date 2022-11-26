@@ -1,59 +1,66 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "React.js",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "React icon by Icons8"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Python",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/python.png",
+        "alt": "Python icon by Icons8"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Javascript",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/javascript.png",
+        "alt": "Javascript icon by Icons8"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Java",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/java.png",
+        "alt": "Java icon by Icons8"
       }
     },
     {
-      "label": "Animations",
+      "label": "C/C++",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/cpp.png",
+        "alt": "C++ icon by Icons8"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Node/Express.js",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/node.png",
+        "alt": "Node Js icon by Icons8"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Docker",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/docker.png",
+        "alt": "Docker icon by Icons8"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Linux",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/linux.png",
+        "alt": "Linux icon by Icons8"
+      }
+    },
+    {
+      "label": "Tensorflow",
+      "image": {
+        "src": "../../images/tensorflow.png",
+        "alt": "Tensorflow icon by Icons8"
       }
     }
   ],
