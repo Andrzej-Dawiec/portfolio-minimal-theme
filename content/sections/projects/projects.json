@@ -39,7 +39,7 @@
       "tags": ["React.js", "Node.js", "Flask", "Python", "API", "Swift", "Data Pipeline"],
       "image": {
         "src": "../../images/ESCI.png",
-        "alt": "Extendable Layout"
+        "alt": "Apple Environmental supply chain initiative pledge"
       },
       "links": [
         {
@@ -53,11 +53,11 @@
       "category": "Software Engineer Intern",
       "title": "Apple",
       "date": "Jun. 2021 - Sep. 2021",
-      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
-      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "description": "I was assigned to the macOS/coreOS team working on different accessibility tools for macOS using Swift, Objective-C, and Node.js.",
+      "tags": ["Swift", "MacOS", "React.js", "Flask", "Node.js"],
       "image": {
         "src": "../../images/macos.png",
-        "alt": "Quick Setup"
+        "alt": "Mac OS Ventura"
       }
     },
     {
@@ -65,11 +65,11 @@
       "category": "Software Engineer Intern",
       "title": "PayPal",
       "date": "Sep. 2021 - Dec. 2021",
-      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
-      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "description": "Working at PayPal, I worked on assigned tickets for the payment security of PayPal, using React.js, Next.js, node.js, and Express.",
+      "tags": ["Web Development", "Security", "React.js", "Express", "Node.js"],
       "image": {
         "src": "../../images/paypal.png",
-        "alt": "Quick Setup"
+        "alt": "PayPal"
       }
     },
     {
@@ -77,8 +77,8 @@
       "category": "Software Engineer Intern",
       "title": "Microsoft",
       "date": "Jun. 2020 - Sep. 2020",
-      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
-      "tags": ["Web Development", "Research", "React.js", "Flask", "Node.js"],
+      "description": "At Microsoft, I worked on the window's security team and system security hardening guidelines on the integrity and performance of Windows 10.",
+      "tags": ["CyberSecurity", "Powershell", "C++", "Assembly", "Java"],
       "image": {
         "src": "../../images/microsoft.png",
         "alt": "Quick Setup"
