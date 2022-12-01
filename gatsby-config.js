@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     {
-      resolve: "Ethan-Yee-Gatsby-minimal-portfolio",
+      resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
         manifestSettings: {
