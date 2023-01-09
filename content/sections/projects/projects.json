@@ -32,19 +32,19 @@
     },
     {
       "visible": true,
-      "category": "Software Engineer Intern",
-      "title": "Apple",
-      "date": "Sep. 2021 - Mar. 2022",
-      "description": "As a software Engineer at Apple, I worked on the Environmental Supply Chain Initiative creating data pipelines for feeding data, a fullstack web applicaiton for auditing and parsing through material specifications, and synthetic data generation.",
-      "tags": ["React.js", "Node.js", "Flask", "Python", "API", "Swift", "Data Pipeline"],
+      "category": "eCommerce Business",
+      "title": "eBay",
+      "date": "Feb. 2013 - Present",
+      "description": "Actively attended to requests from customers. Vendoring various products from Mattel to custom 3D-printed phone cases.",
+      "tags": ["Marketing", "Entrepreneurship", "Networking", "Customer Service", "Creativity", "CAD Modeling", "Data Pipeline", "Financing", "Money Management", "Organization", "Excel Spreadsheets", "Business"],
       "image": {
-        "src": "../../images/ESCI.png",
-        "alt": "Apple Environmental supply chain initiative pledge"
+        "src": "../../images/eBay.png",
+        "alt": "eBay Logo"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://www.apple.com/environment/"
+          "url": "https://www.ebay.com/usr/custom_wheels25"
         }
       ]
     },
