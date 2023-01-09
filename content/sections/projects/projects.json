@@ -9,24 +9,24 @@
       "tags": ["Objective-C", "Networking", "Research", "Leadership", "Entrepreneurship", "Creativity"],
       "image": {
         "src": "../../images/messageBoard.png",
-        "alt": "Extendable Layout"
+        "alt": "Layout"
       }
     },
     {
       "visible": true,
-      "category": "Software Engineer (Research Assistant)",
-      "title": "Social Computing and Algorithmic Expressions Laboratory",
-      "date": "Jun. 2022 - Sep. 2022",
-      "description": "I worked on creating a full-stack web application for our vendor, PesaCheck. Using React.js and Node.js, we created a fact-checking interface to help Kenyan election officials to track and monitor misinformation.",
-      "tags": ["Web Development", "Research", "React.js", "d3.js", "Flask", "Node.js"],
+      "category": "Leadership Experience",
+      "title": "Peer Coach, University of Washington Bothell",
+      "date": "Mar. 2021 - Dec. 2022",
+      "description": "Prioritized comfort and well-being of students by creating a safe and welcoming environment, promoting a positive impression of the university. Working with a team of 24 people while managing 40+ students throughout a quarter. Organized events specifically centered around fostering and maintaining powerful student and faculty relationships",
+      "tags": ["Leadership", "Management", "Organization", "Customer Service", "Diversity", "Inclusion", "Coaching"],
       "image": {
-        "src": "../../images/uwcse.png",
-        "alt": "Quick Setup"
+        "src": "../../images/peerCoaching.jpg",
+        "alt": "PC Photo"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://faculty.washington.edu/tmitra/students/"
+          "url": "https://www.uwb.edu/orientation/first-year-coaching-program"
         }
       ]
     },
