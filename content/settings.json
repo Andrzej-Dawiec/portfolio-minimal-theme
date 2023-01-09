@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/SWE_Resume.pdf"
+        "url": "/AndrzejDawiec_Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
