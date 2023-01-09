@@ -3,11 +3,11 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://ethanyee.info/", // Used for sitemap generation
+        siteUrl: "https://andrzejdawiecportfolio.gatsbyjs.io", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "Ethan Yee's Portfolio", // Used in manifest.json
-          shortName: "Ethan Yee's Portfolio", // Used in manifest.json
+          siteName: "Andrzej Dawiec's Portoflio", // Used in manifest.json
+          shortName: "Andrzej Dawiec's Portolio", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json
