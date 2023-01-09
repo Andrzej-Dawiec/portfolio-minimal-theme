@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Ethan Yee"
+imageAlt: "About Andrzej Dawiec"
 ---
 
 Ethan Yee is a 4th year Applied Computing (Computer Science) major at the University of Washington. He is currently on the Data Science track.
