@@ -4,6 +4,7 @@ imageAlt: "About Andrzej Dawiec"
 ---
 
 Ethan Yee is a 4th year Applied Computing (Computer Science) major at the University of Washington. He is currently on the Data Science track.
+Andrzej Dawiec is currently a 3rd year Computer Science & Software Engineering major at the University of Washington Bothell. 
 
 I have previous experience using React.js, Next.js, Python, Flask, Django, and other frameworks. I was previously an intern at Apple, Microsoft, Paypal and Google, and I am currently looking for Web developer roles.
 
