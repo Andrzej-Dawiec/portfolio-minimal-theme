@@ -62,8 +62,8 @@
     },
     {
       "visible": true,
-      "category": "Software Engineer Intern",
-      "title": "PayPal",
+      "category": "Software and Design Project",
+      "title": "Grocery Manager, Computer Science Principles",
       "date": "Sep. 2021 - Dec. 2021",
       "description": "Working at PayPal, I worked on assigned tickets for the payment security of PayPal, using React.js, Next.js, node.js, and Express.",
       "tags": ["Web Development", "Security", "React.js", "Express", "Node.js"],
