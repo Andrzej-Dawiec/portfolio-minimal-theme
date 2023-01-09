@@ -61,7 +61,7 @@
       }
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "Software and Design Project",
       "title": "Grocery Manager, Computer Science Principles",
       "date": "Sep. 2021 - Dec. 2021",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "Software Engineer Intern",
       "title": "Microsoft",
       "date": "Jun. 2020 - Sep. 2020",
