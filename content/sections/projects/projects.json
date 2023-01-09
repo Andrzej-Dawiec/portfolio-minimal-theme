@@ -73,11 +73,11 @@
       }
     },
     {
-      "visible": false,
+      "visible": true,
       "category": "Software Engineer Intern",
-      "title": "Microsoft",
-      "date": "Jun. 2020 - Sep. 2020",
-      "description": "At Microsoft, I worked on the window's security team and system security hardening guidelines on the integrity and performance of Windows 10.",
+      "title": "Check out my amazon wish list!!!",
+      "date": "Yes",
+      "description": "Jeff Bezos approved -thumbs up emoji noises-",
       "tags": ["CyberSecurity", "Powershell", "C++", "Assembly", "Java"],
       "image": {
         "src": "../../images/microsoft.png",
