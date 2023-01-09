@@ -3,12 +3,12 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Andrzej Dawiec"
 ---
 
-Ethan Yee is a 4th year Applied Computing (Computer Science) major at the University of Washington. He is currently on the Data Science track.
 Andrzej Dawiec is currently a 3rd year Computer Science & Software Engineering major at the University of Washington Bothell. 
 
-I have previous experience using React.js, Next.js, Python, Flask, Django, and other frameworks. I was previously an intern at Apple, Microsoft, Paypal and Google, and I am currently looking for Web developer roles.
+I have previous experience in Java, C++, Objective-C and Python along with other frameworks. I am the CEO and founder of 90Degree Studios and I am currently looking for Software Developement Internships. 
 
-Outside of the tech industry, I am passionate about film making and photography. I am currently filming a short film about identity and origins.
+
+Outside of the tech industry, I am passionate about cars, 3D-modeling/printing along with photography. I love the outdoors and socializing with my friends. 
 
 Feel free to reach out to me!
 
