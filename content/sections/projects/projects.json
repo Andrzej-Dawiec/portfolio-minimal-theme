@@ -50,14 +50,14 @@
     },
     {
       "visible": true,
-      "category": "Software Engineer Intern",
-      "title": "Apple",
-      "date": "Jun. 2021 - Sep. 2021",
-      "description": "I was assigned to the macOS/coreOS team working on different accessibility tools for macOS using Swift, Objective-C, and Node.js.",
-      "tags": ["Swift", "MacOS", "React.js", "Flask", "Node.js"],
+      "category": "Server Management",
+      "title": "Raspberry Pi NAS Server",
+      "date": "Jun. 2015-Present",
+      "description": "I created a NAS server using a Raspberry Pi for cloud computing. Running Raspian, the server allows me to quickly backup and upload files to the cload along with hosting Minecraft and Python/Java/C++ servers respectfully. ",
+      "tags": ["C++", "Java", "Linux", "Raspbian", "Python", "Assembly", "Cloud Computing", "Creativity", "Server"],
       "image": {
-        "src": "../../images/macos.png",
-        "alt": "Mac OS Ventura"
+        "src": "../../images/raspberryPi.png",
+        "alt": "RasPi Photo"
       }
     },
     {
