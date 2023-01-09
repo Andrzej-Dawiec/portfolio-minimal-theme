@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm Ethan Yee (余泽恩)",
+  "title": "I'm Andrzej Dawiec",
   "subtitle": {
     "prefix": "I am a ",
     "highlight": "Software Engineer",
     "suffix": "."
   },
-  "description": "I am a 4th year Computer Science student at the University of Washington.",
+  "description": "I am a 3rd year Computer Science student at the University of Washington Bothell.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
