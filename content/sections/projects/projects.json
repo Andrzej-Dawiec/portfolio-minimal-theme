@@ -2,13 +2,13 @@
   "projects": [
     {
       "visible": true,
-      "category": "Software Engineer Intern",
-      "title": "Google",
-      "date": "Sep. 2022 - Present",
-      "description": "I was working on Google's Cloud Services team as a software engineer intern, working in C++ to help assist with payment and security of information.",
-      "tags": ["C++", "Networking", "Docker", "ACE", "MapReduce", "Data Pipeline"],
+      "category": "Software Developer & Founder",
+      "title": "90 Degree Studios",
+      "date": "Jan. 2020 - Present",
+      "description": "Working in Objective-C, my first app 'MessageBoard 21' trended #211 on Mac AppStore under Lifestyle category. Available on iPhone, iPad, Mac, and AppleTV.",
+      "tags": ["Objective-C", "Networking", "Research", "Leadership", "Entrepreneurship", "Creativity"],
       "image": {
-        "src": "../../images/googleCloud.png",
+        "src": "../../images/messageBoard.png",
         "alt": "Extendable Layout"
       }
     },
