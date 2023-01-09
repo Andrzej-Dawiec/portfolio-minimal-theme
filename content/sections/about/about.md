@@ -8,7 +8,7 @@ Andrzej Dawiec is currently a 3rd year Computer Science & Software Engineering m
 I have previous experience in Java, C++, Objective-C and Python along with other frameworks. I am the CEO and founder of 90Degree Studios and I am currently looking for Software Developement Internships. 
 
 
-Outside of the tech industry, I am passionate about cars, 3D-modeling/printing along with photography. I love the outdoors and socializing with my friends. 
+Outside of the tech industry, I am passionate about cars, 3D-modeling/printing along with photography. I love the outdoors and mountain biking with friends.  
 
 Feel free to reach out to me!
 
