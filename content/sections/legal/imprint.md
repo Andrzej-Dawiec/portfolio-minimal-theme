@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-Ethan Yee<br />
+Andrzej Dawiec<br />
 Seattle<br />
 Washington<br />
 United States
 
-E-Mail Address: <u>theethan5753@gmail.com</u>
+E-Mail Address: <u>andrzej5@uw.edu</u>
 
 ---
 
