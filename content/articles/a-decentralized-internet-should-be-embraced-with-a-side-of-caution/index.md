@@ -2,6 +2,7 @@
 title: "A decentralized internet should be embraced with a side of caution"
 description: "An ethical view on whether we should embrace a more decentralized internet."
 date: "2022-11-28"
+visible: false
 banner:
   src: "../../images/articles/web3_1.jpeg"
   alt: "Web 3.0"
