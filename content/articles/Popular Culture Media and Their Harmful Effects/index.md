@@ -5,7 +5,7 @@ date: "2021-12-05"
 banner:
   src: "../../images/articles/FastandFurious1.jpeg"
   alt: "Web 3.0"
-  caption: 'Scene from 'The Fast and the Furious' (2001, Universal Pictures)'
+  caption: 'Scene from "The Fast and the Furious" (2001, Universal Pictures)'
 categories:
   - "Ethics"
   - "Technology"
