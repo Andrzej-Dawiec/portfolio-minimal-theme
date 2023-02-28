@@ -1,7 +1,7 @@
 ---
 title: "Popular Culture Media and Their Harmful Effects"
 description: "Does consuming content which glorifies illegal activities increase the chances of someone behaving badly, or are there other factors at play?"
-date: "2021-12-05"
+date: "2023-02-26"
 banner:
   src: "../../images/articles/FastandFurious1.jpeg"
   alt: "Web 3.0"
