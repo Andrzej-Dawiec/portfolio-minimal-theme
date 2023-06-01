@@ -53,7 +53,7 @@
       "category": "Server Management",
       "title": "Raspberry Pi NAS Server",
       "date": "Jun. 2015-Present",
-      "description": "I created a NAS server using a Raspberry Pi for cloud computing. Running Raspian, the server allows full automation of file backups to the cloud using custom software #me to quickly backup and upload files to the cload along with hosting Minecraft and Python/Java/C++ servers respectfully. ",
+      "description": "I created a NAS server using a Raspberry Pi for cloud computing. Running Raspian, the server allows full automation of file backups to the cloud using custom software to quickly backup and upload files to the cload along with hosting Minecraft and Python/Java/C++ servers respectfully. ",
       "tags": ["C++", "Java", "Linux", "Raspbian", "Python", "Assembly", "Cloud Computing", "Creativity", "Server"],
       "image": {
         "src": "../../images/raspberryPi.png",
