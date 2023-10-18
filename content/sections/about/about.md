@@ -3,7 +3,7 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Andrzej Dawiec"
 ---
 
-Andrzej Dawiec is currently a 3rd year Computer Science & Software Engineering major at the University of Washington Bothell. 
+Andrzej Dawiec is currently a 4th year Computer Science & Software Engineering major at the University of Washington Bothell. 
 
 I have previous experience in Java, C++, Objective-C and Python along with other frameworks. I am the CEO and founder of 90Degree Studios and I am currently looking for Software Developement Internships. 
 
