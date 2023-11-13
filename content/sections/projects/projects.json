@@ -2,14 +2,14 @@
   "projects": [
     {
       "visible": false,
-      "category": "Leadership Experience",
+      "category": "Software Developer Intern",
       "title": "Undergraduate Research Assistant, Intelligent Networks Laboratory",
       "date": "June. 2023 - Aug. 2023",
       "description": "Prioritized comfort and well-being of students by creating a safe and welcoming environment, promoting a positive impression of the university. Working with a team of 24 people while managing 40+ students throughout a quarter. Organized events specifically centered around fostering and maintaining powerful student and faculty relationships",
       "tags": ["Leadership", "Management", "Organization", "Customer Service", "Diversity", "Inclusion", "Coaching"],
       "image": {
-        "src": "../../images/peerCoaching.png",
-        "alt": "PC Photo"
+        "src": "../../images/INL.png",
+        "alt": "Intelligent Networks Lab Photo"
       },
       "links": [
         {
