@@ -5,8 +5,8 @@
       "category": "Software Developer Intern",
       "title": "Undergraduate Research Assistant, Intelligent Networks Laboratory",
       "date": "June. 2023 - Aug. 2023",
-      "description": "Prioritized comfort and well-being of students by creating a safe and welcoming environment, promoting a positive impression of the university. Working with a team of 24 people while managing 40+ students throughout a quarter. Organized events specifically centered around fostering and maintaining powerful student and faculty relationships",
-      "tags": ["Leadership", "Management", "Organization", "Customer Service", "Diversity", "Inclusion", "Coaching"],
+      "description": "Collaborated on the Graphitti project as part of the Intelligent Networks Laboratory, specializing in graph-based high-performance simulations for neuroscience and emergency communications system applications. Enhanced build efficiency by 86% under CPU and GPU-intensive scenarios for extended durations, reducing build time from 3 minutes to 25 seconds.",
+      "tags": ["C++", "API Development", "PlantUML", "Computer Engineering", "Databases", "Leadership", "Cloud Computing"],
       "image": {
         "src": "../../images/INL.png",
         "alt": "Intelligent Networks Lab Photo"
