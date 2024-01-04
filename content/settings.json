@@ -7,11 +7,11 @@
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Andrzej Dawiec",
     "avatar": "../content/images/favicon.png",
-    "bio": "Andrzej Dawiec is currently a 3rd year Computer Science & Software Engineering major at the University of Washington Bothell.",
+    "bio": "Andrzej Dawiec is currently a 4th year Computer Science & Software Engineering major at the University of Washington Bothell.",
     "social": {
       "github": "https://github.com/Andrzej-Dawiec",
-      "linkedin": "https://www.linkedin.com/in/andrzej-dawiec-2a588a190/",
-      "mail": "mailto:andrzej5@uw.edu"
+      "linkedin": "https://www.linkedin.com/in/andrzej-dawiec/",
+      "mail": "mailto:contact@andrzejdawiec.info"
     }
   },
   "siteConfiguration": {
