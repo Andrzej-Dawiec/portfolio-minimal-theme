@@ -9,7 +9,7 @@ Seattle<br />
 Washington<br />
 United States
 
-E-Mail Address: <u>andrzej5@uw.edu</u>
+E-Mail Address: <u>contact@andrzejdawiec.info</u>
 
 ---
 
